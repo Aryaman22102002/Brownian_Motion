@@ -4,7 +4,9 @@ This is my solution to JdeRobot's python programming challenge.
 # File Structure
 
 ```
-   ┣ 📂src                       # Contains the python module.
+   ┣ 📂assets                   
+   ┃ ┗📜Output.mp4               # It contains the soultion video.
+   ┣ 📂src                       # It contains the python module.
    ┃ ┗ 📜Brownian_Motion.py      # It contains the function which simulates the Brownian Motiion.
    ┃ ┗ 📜main.py                 # The main file of the python module whihc calls the function whihc causes the Brownian Motion.
    ┣ 📜.gitignore                           
