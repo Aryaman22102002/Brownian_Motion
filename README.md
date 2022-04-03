@@ -7,7 +7,7 @@ This is my solution to JdeRobot's python programming challenge.
    ┣ 📂assets                   
    ┃ ┗📜Output.mp4               # It contains the solution video.
    ┣ 📂src                       # It contains the python module.
-   ┃ ┗ 📜Brownian_Motion.py      # It contains the function which simulates the Brownian Motiion.
+   ┃ ┗ 📜Brownian_Motion.py      # It contains the function which simulates the Brownian Motion.
    ┃ ┗ 📜main.py                 # The main file of the python module which calls the function which causes the Brownian Motion.
    ┣ 📜.gitignore                           
    ┣ 📜LICENSE
